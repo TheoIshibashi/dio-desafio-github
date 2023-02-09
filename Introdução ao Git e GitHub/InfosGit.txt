@@ -1,0 +1,11 @@
+# Git
+
+##Comandos
+git clone (Clona um repositório do GitHub na sua máquina)
+git status
+git add . ou -A (Adiciona todos os arquivos novos)
+git add nomedoarquivo (Adiciona um arquivo selecionado)
+
+git commit -m "mensagem" (Atualizar)
+
+git push origin main(Envia os arquivos para nuvem/github).
